@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>✨| Open Source </title>
+        <link rel="icon" href="" />
       </Head>
 
       <main>
@@ -16,6 +16,9 @@ export default function Home() {
 
         <p className={styles.description}>
           Get started by editing <code>pages/index.js</code>
+        </p>
+        <p className={styles.description}>
+          If you have reached here, We are going to be working <br></br>together to see how we can modify this <code>documents!</code> We shall start by following the Documentation
         </p>
 
         <div className={styles.grid}>
@@ -51,12 +54,13 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://github.com\mosespace"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel" className={styles.logo} />
+          Powered by <b>Moses</b>
+          
+          {/* <img src="/vercel.svg" alt="Vercel" className={styles.logo} /> */}
         </a>
       </footer>
 
