@@ -8,14 +8,14 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: #ffa500;
   text-decoration: none;
 }
 
 .title a:hover,
 .title a:focus,
 .title a:active {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .title {
@@ -64,8 +64,8 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: #ffa500;
+  border-color: #ffa500;
 }
 
 .card h3 {
